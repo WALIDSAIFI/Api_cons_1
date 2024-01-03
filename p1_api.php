@@ -6,7 +6,11 @@
     <title>Api</title>
     <script src="script.js"></script>
 </head>
+
 <body>
-    
+    <div id="header">
+        <select><option></option></select>
+        
+    </div>
 </body>
 </html>
